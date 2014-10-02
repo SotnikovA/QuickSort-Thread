@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1412244119 source:/home/sotnokov_a_n/Документы/учеба/QuickSort1/QuickSort/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
