@@ -4,3 +4,10 @@
 	<stdlib.h>
 	<time.h>
 
+1412938062 source:/home/sotnokov_a_n/Документы/учеба/OS/QuickSort+Thread/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<tgmath.h>
+	<pthread.h>
+
